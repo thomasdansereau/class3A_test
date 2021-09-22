@@ -19,12 +19,17 @@ This is a test
 8 there are this many cool things on this line.
 
 9 there are this many cool things on this line.
-
 ## lanceBranch
 hello there
 3point14159
 if you read this you are cool
 I like to eat mango ice cream
 suddenly an extra line
+
+## max's commits 
+random text is here
+123456
+78+89
+data301 random writing
 
 10
